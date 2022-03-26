@@ -25,7 +25,7 @@ Finally, run the Plot figures.py and plot_JH_zircons_ratio_with_age.py to obtain
 ```
 python Plot figures.py
 python plot_JH_zircons_ratio_with_age.py
-```g
+```
 ## In Pycharm
 Install all dependent libraries and directly run main.py, Plot figures.py, and plot_JH_zircons_ratio_with_age.py 
   
