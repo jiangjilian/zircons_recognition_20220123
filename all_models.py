@@ -18,7 +18,6 @@ import pandas as pd
 import os
 import las
 import matplotlib.pyplot as plt
-import pymc3 as pm
 import seaborn as sns
 from sklearn.model_selection import train_test_split, cross_val_score
 from matplotlib import cm
